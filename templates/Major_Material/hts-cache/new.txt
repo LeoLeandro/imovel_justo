@@ -1,0 +1,5 @@
+date	size'/'remotesize	flags(request:Update,Range state:File response:Modified,Chunked,gZipped)	statuscode	status ('servermsg')	MIME	Etag|Date	URL	localfile	(from URL)
+03:27:57	238/238	---M--	403	error ('Forbidden')	text/html	date:Wed,%2015%20Nov%202017%2006:27:54%20GMT	http://lancecoder.com/themes/thema/versions/html/index.php	C:/Meus%20Sites/Pj2/lancecoder.com/themes/thema/versions/html/index.0.delayed	(from )
+03:27:57	278/278	---MCZ	200	added ('OK')	text/plain	etag:W/%2256288747-31d%22	http://lancecoder.com/robots.txt		(from )
+03:27:58	3058/3058	---MCZ	200	added ('OK')	text/html	date:Wed,%2015%20Nov%202017%2006:27:55%20GMT	http://preview.graygrids.com/item/mejor-material-dashboardfrontend-template-and-ui-kit/	C:/Meus%20Sites/Pj2/preview.graygrids.com/item/mejor-material-dashboardfrontend-template-and-ui-kit/index.html	(from )
+03:27:58	46/46	---MCZ	200	added ('OK')	text/plain	date:Wed,%2015%20Nov%202017%2006:27:55%20GMT	http://preview.graygrids.com/robots.txt		(from )
